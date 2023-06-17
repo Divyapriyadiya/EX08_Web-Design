@@ -88,7 +88,8 @@
 ~~~
 
 ## OUTPUT
-![registrationex 8](https://github.com/Divyapriyadiya/EX08_Web-Design/assets/128477941/22a0259a-6d9c-479c-add8-f64bf88a565d)
+![registration web ex 8](https://github.com/Divyapriyadiya/EX08_Web-Design/assets/128477941/4c7e4f04-5100-4937-a2c6-c5d7d412630b)
+
 
 
 ## RESULT
